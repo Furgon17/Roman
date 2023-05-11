@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffb36caa-7fbb-442c-8f31-8726317a61d9" name="Changes" comment="First Commit">
-      <change beforePath="$PROJECT_DIR$/src/Num.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Operation.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChekOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChekRoman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Parse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RomanArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calculator 2.0/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Calculator 2.0/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calculator 2.0/RomanNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +35,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2PSgliFTiOaZPm0jKdcOucluQov" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
